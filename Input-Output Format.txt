@@ -1,0 +1,7 @@
+Graph Input:- 
+Line-1) n(no_of_transactions = no of edges),m(no_of_persons = no of vertices)
+Line-2) n weighted directed edges representing transactions between each person:- person1(vertex1), person2(vertex2), amount(edge weight)
+
+Output:-
+Line-1) Minimum number of transactions after bill split.
+Line-2) Who pays how much to whom.
